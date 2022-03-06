@@ -1,4 +1,4 @@
-# taskmaster-pro
+# Taskmaster Pro
 This is a kanban style web application that allows users to organise their tasks. These can be work tasks or personal tasks. This kanban board was created as a free and simple to use alternative to other kanban boards out there! Users can set completion dates, move to each column using drag and drop, and delete tasks when finished.
 
 ## Click [here](https://flovelace.github.io/taskmaster-pro/) to visit the website!
@@ -21,3 +21,6 @@ https://github.com/flovelace/taskmaster-pro/
 
 ## Contribution
 Made with ❤️ by Fairfax
+
+## Questions?
+Contact: lovelace.af@gmail.com
